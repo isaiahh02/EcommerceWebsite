@@ -1,6 +1,6 @@
 body {
-    background-color: blanchedalmond;
-    background-image: url(cssstyle.webp);
+    background-color: rgb(196, 213, 207);
+
 }
 
 .wrapper {
@@ -18,6 +18,6 @@ body {
 
 @media (max-width: 500px) {
     body {
-        color:blanchedalmond
+        color:blanchedalmond;
     }
 }
